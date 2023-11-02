@@ -1,0 +1,15 @@
+x:/glider_data/Trinidad/OSU157_20141116_bindata2, Trin
+x:/glider_data/Trinidad/OSU130_20150309_bindata2, Trin
+x:/glider_data/Trinidad/OSU157_20150917_bindata2, Trin
+x:/glider_data/Trinidad/OSU130_20160523_bindata2, Trin
+x:/glider_data/Trinidad/OSU157_20161021_bindata2, Trin
+x:/glider_data/Trinidad/OSU130_20170605_bindata2, Trin
+x:/glider_data/Trinidad/OSU157_20180417_bindata2, Trin
+x:/glider_data/Trinidad/OSU130_20181107_bindata2, Trin
+x:/glider_data/Trinidad/OSU646_20190409_bindata2, Trin
+x:/glider_data/Trinidad/OSU157_20190916_bindata2, Trin
+x:/glider_data/Trinidad/OSU130_20200612_bindata2, Trin
+x:/glider_data/Trinidad/OSU157_20200917_bindata2, Trin
+x:/glider_data/Trinidad/OSU646_20210816_bindata2, Trin
+x:/glider_data/Trinidad/OSU646_20211112_bindata2, Trin
+x:/glider_data/Trinidad/OSU685_20230816_bindata2, Trin
