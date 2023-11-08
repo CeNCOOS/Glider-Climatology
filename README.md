@@ -8,3 +8,4 @@ Most of the programs needed are in the collection.  NOTE: All data paths have be
 removing the data path would make the code meaningless.
 
 The code also requires the <i>Seawater</i> toolbox for matlab (free).  Since this is available elsewhere it isn't included here.
+The code was tested using Matlab R2022b on PC.
